@@ -8,7 +8,7 @@ public class C12S4PcSpringbootApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(C12S4PcSpringbootApplication.class, args);
-		System.out.println("Good day too you");
+		System.out.println("Good day too You");
 	}
 
 }
